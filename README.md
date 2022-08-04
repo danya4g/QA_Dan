@@ -8,6 +8,8 @@ QA Test cases by Daniil Shelepin
 
 [Техническое задание на разработку для Mprofiko] https://docs.google.com/spreadsheets/d/1SrtmQ4lAuYTFC3prHlS4AAdut1VMJCori10CXVpErGM/edit#gid=0 
 
+[Тест кейсы работы сервера загрузки данных] https://docs.google.com/spreadsheets/d/1NJSn_eOpHApwQZsm8NFrao1eYsR4ViX4PqVNd4FioBs/edit#gid=0
+
 [UI/UX тестирование Okami.group] https://docs.google.com/document/d/13xAQTn4wTVgvgK5rf_R3KmKe1PrXDq0Etj4NRvzYmRY/edit
 
 [Тестовое задание] https://docs.google.com/document/d/1F-w_NrGQdwTOh3teJINzivw2NJ8VdkQraUFo0KAtwzs/edit
